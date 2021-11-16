@@ -1,0 +1,9 @@
+pandas
+
+# testing
+virtualenv==20.0.33
+pre-commit
+isort
+black
+flake8
+pytest
