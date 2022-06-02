@@ -10,10 +10,10 @@ repos:
     hooks:
     -   id: isort
         name: isort
--   repo: https://github.com/python/black
-    rev: 22.3.0
-    hooks:
-    -   id: black
+# -   repo: https://github.com/python/black
+#     rev: 22.3.0
+#     hooks:
+#     -   id: black
 -   repo: https://gitlab.com/PyCQA/flake8
     rev: 3.8.4
     hooks:
